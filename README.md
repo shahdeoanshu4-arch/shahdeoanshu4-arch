@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ANSHU SHAHDEO</h1>
+<h1 align="center">Hi , I'm ANSHU SHAHDEO</h1>
 -  I’m currently learning **Data Structures & Algorithms, Artificial Intelligence, HTML & CSS**
 
 -  I’m looking to collaborate on **Beginner-friendly Python or Open Source projects**
