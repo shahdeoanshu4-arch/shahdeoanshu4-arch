@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm ANSHU SHAHDEO</h1>
-- 🌱 I’m currently learning **Data Structures & Algorithms, Artificial Intelligence, HTML & CSS**
+-  I’m currently learning **Data Structures & Algorithms, Artificial Intelligence, HTML & CSS**
 
-- 👯 I’m looking to collaborate on **Beginner-friendly Python or Open Source projects**
+-  I’m looking to collaborate on **Beginner-friendly Python or Open Source projects**
 
-- 🤝 I’m looking for help with **Improving algorithm optimization and real-world project structure**
+- I’m looking for help with **Improving algorithm optimization and real-world project structure**
 
-- 💬 Ask me about **Python, basic AI concepts, problem solving, and student coding projects**
+-  Ask me about **Python, basic AI concepts, problem solving, and student coding projects**
 
-- 📫 How to reach me **shahdeoanshu4@gmail.com**
+-  How to reach me **shahdeoanshu4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
