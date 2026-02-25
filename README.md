@@ -1,16 +1,61 @@
 ## Hi there 👋
 
-<!--
-**shahdeoanshu4-arch/shahdeoanshu4-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Anshu Shah
 
-Here are some ideas to get you started:
+🎓 Computer Science Student | 💻 Python Learner | 🤖 AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🌱 Currently learning **Python, Data Structures & Algorithms, and Artificial Intelligence**
+* 💡 Interested in **Problem Solving, Machine Learning, and Web Development**
+* 🔭 Working on improving my coding and logical thinking skills
+* 🎯 Goal: Become a skilled Software Developer & AI Engineer
+
+---
+
+## 🛠️ Skills & Tools
+
+* **Languages:** Python, C, HTML, CSS
+* **Concepts:** Data Structures, Algorithms, Basic AI
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📚 Currently Learning
+
+* Artificial Intelligence Search Algorithms
+* Python Advanced Concepts
+* Web Development Basics
+
+---
+
+## 🤝 Looking to Collaborate On
+
+* Beginner-friendly Open Source Projects
+* Python or AI-based projects
+* Student coding projects
+
+---
+
+## 💬 Ask Me About
+
+* Python programming
+* Basic AI concepts
+* Data Structures & Algorithms
+* Beginner coding guidance
+
+---
+
+
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving coding problems like puzzles 🧩 — every bug is just a mystery waiting to be solved!
+
+---
+
+⭐ Thanks for visiting my profile!
